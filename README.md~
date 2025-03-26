@@ -1,0 +1,35 @@
+# Currency Converter 💱
+
+A simple and elegant currency converter app built with **Flutter**. This app allows users to convert **USD to BDT** with a clean and modern UI.
+
+## 🚀 Features
+- 🔄 Convert USD to BDT in real time  
+- 🎨 Minimalist and smart UI design  
+- ⚡ Smooth user experience with Cupertino & Material widgets  
+- 🌐 Works offline (No internet required)  
+- 🚀 Lightweight and fast  
+
+## 📱 Screenshots
+| Home Screen |
+|------------|
+| ![Screenshot](assets/screenshot.png) |
+
+## 🛠️ Technologies Used
+- **Flutter** (Dart)
+- **Cupertino & Material Design**
+- **Stateful Widgets**
+- **Responsive UI**
+
+## 🏗️ Project Structure
+
+
+
+## **What’s New?**
+✅ **Smart color scheme** mentioned  
+✅ **Proper folder structure**  
+✅ **Clean and professional look**  
+✅ **Code blocks for easy installation**  
+
+Let me know if you want any changes! 🚀🔥
+
+
